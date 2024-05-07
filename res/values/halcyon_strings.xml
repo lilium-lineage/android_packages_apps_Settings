@@ -30,4 +30,9 @@
     <!-- Ongoing action progress bar chip -->
     <string name="show_progress_bar_chip_title">Show ongoing action progress bar chip</string>
     <string name="show_progress_bar_chip_summary">Display a progress bar chip for ongoing actions in the status bar</string>
+
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ignore window secure flags</string>
+    <string name="ignore_window_secure_summary">Remove screenshot and screenrecord limits for all apps. This can be convenient in some cases but may lead to privacy leaks.</string>
+
 </resources>
