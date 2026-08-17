@@ -856,6 +856,8 @@
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"Разрешаване на достъпа до контактите и историята на обажданията ви"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"Разрешаване и на достъпа до контактите и историята на обажданията"</string>
     <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"Информацията ще се ползва за обявяване на обажданията и др."</string>
+    <string name="bluetooth_pairing_confirmation_title" msgid="3359642089708714808">"Проверка на кодовете за сдвояване"</string>
+    <string name="bluetooth_pairing_confirmation_msg" msgid="8204761740738350792">"Проверете дали кодът съответства на този на <xliff:g id="DEVICE_NAME">%1$s</xliff:g>.\n\nОт съображения за сигурност не въвеждайте кода никъде."</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"Не можа да се установи връзка със: <xliff:g id="DEVICE_NAME">%1$s</xliff:g>."</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"Налични устройства"</string>
@@ -4728,8 +4730,8 @@
     <!-- no translation found for graphics_driver_app_preference_values:2 (5391218026495225599) -->
     <!-- no translation found for graphics_driver_app_preference_values:3 (2586045835780389650) -->
     <string name="enable_angle_as_system_driver" msgid="4648827560023949786">"Експеримент: Активиране на ANGLE"</string>
-    <string name="enable_angle_as_system_driver_summary" msgid="2170215556348477481">"Предупреждение: Активиране на ANGLE като стандартен OpenGL ES драйвер. Тази функция е експериментална и може да не е съвместима с някои приложения за камера и видео."</string>
-    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="2619263039763150810">"За промяна на системния OpenGL ES драйвер се изисква рестартиране"</string>
+    <string name="enable_angle_as_system_driver_summary" msgid="1552818142467085308">"Предупреждение: Активиране на ANGLE като стандартен OpenGL ES драйвер. Тази функция е експериментална и може да не е съвместима с някои приложения за камера и видео. Създайте резервно копие на данните на устройството си, преди да включите превключвателя"</string>
+    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="14147627096976157">"За промяна на системния OpenGL ES драйвер се изисква рестартиране. Моля, създайте резервно копие на данните на устройството си, преди да го рестартирате. В случай че рестартирането не е успешно, трябва да възстановите фабричните настройки, за да възстановите устройството"</string>
     <string name="platform_compat_dashboard_title" msgid="1323980546791790236">"Промени в съвместимостта на приложенията"</string>
     <string name="platform_compat_dashboard_summary" msgid="4036546607938791337">"Включване/изключване на промените в съвместимостта на приложенията"</string>
     <string name="platform_compat_default_enabled_title" msgid="8973137337738388024">"Промени, свързани с активирането по подразбиране"</string>

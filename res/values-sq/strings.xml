@@ -856,6 +856,8 @@
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"Lejo qasjen te kontaktet dhe historiku i telefonatave"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"Lejo gjithashtu qasjen te kontaktet dhe historiku i telefonatave"</string>
     <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"Informacionet do të përdoren për njoftimet për telefonatat etj."</string>
+    <string name="bluetooth_pairing_confirmation_title" msgid="3359642089708714808">"Kontrollo kodet e çiftimit"</string>
+    <string name="bluetooth_pairing_confirmation_msg" msgid="8204761740738350792">"Kontrollo nëse ky kod përputhet me kodin në <xliff:g id="DEVICE_NAME">%1$s</xliff:g>.\n\nPër sigurinë tënde, mos e fut askund këtë kod."</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"Nuk mundi të lidhej me <xliff:g id="DEVICE_NAME">%1$s</xliff:g>."</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"Pajisjet që ofrohen"</string>
@@ -4728,8 +4730,8 @@
     <!-- no translation found for graphics_driver_app_preference_values:2 (5391218026495225599) -->
     <!-- no translation found for graphics_driver_app_preference_values:3 (2586045835780389650) -->
     <string name="enable_angle_as_system_driver" msgid="4648827560023949786">"Eksperimentale: Aktivizo ANGLE"</string>
-    <string name="enable_angle_as_system_driver_summary" msgid="2170215556348477481">"Paralajmërim: Aktivizo ANGLE si drejtues të parazgjedhur OpenGL ES. Kjo veçori është në eksperiment dhe mund të mos jetë e përputhshme me disa aplikacione të kamerave dhe videove."</string>
-    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="2619263039763150810">"Kërkohet rindezja për të ndryshuar drejtuesin e OpenGL ES për sistemin"</string>
+    <string name="enable_angle_as_system_driver_summary" msgid="1552818142467085308">"Paralajmërim: Aktivizo ANGLE si drejtues të parazgjedhur OpenGL ES. Kjo veçori është në eksperiment dhe mund të mos jetë e përputhshme me disa aplikacione të kamerave dhe videove. Rezervo të dhënat e pajisjes para se të aktivizosh ndryshimin"</string>
+    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="14147627096976157">"Kërkohet rindezja për të ndryshuar drejtuesin e OpenGL ES për sistemin. Rezervo të dhënat e pajisjes para se ta rindezësh. Në rast se rindezja dështon, të duhet një rivendosje në gjendje fabrike për të restauruar pajisjen"</string>
     <string name="platform_compat_dashboard_title" msgid="1323980546791790236">"Ndryshimet e pajtueshmërisë së aplikacionit"</string>
     <string name="platform_compat_dashboard_summary" msgid="4036546607938791337">"Aktivizo ose çaktivizo ndryshimet e përputhshmërisë së aplikacionit"</string>
     <string name="platform_compat_default_enabled_title" msgid="8973137337738388024">"Ndryshimet të aktivizuara si parazgjedhje"</string>

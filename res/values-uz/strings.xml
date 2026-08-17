@@ -856,6 +856,8 @@
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"Kontakt va chaqiruvlar tarixiga ruxsat berish"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"Shuningdek, kontaktlar va chaqiruvlar tarixiga kirish uchun ruxsat bering"</string>
     <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"Maʼlumotlar chaqiruvlar haqida xabar berish uchun ishlatiladi"</string>
+    <string name="bluetooth_pairing_confirmation_title" msgid="3359642089708714808">"Ulanish kodlarini tekshirish"</string>
+    <string name="bluetooth_pairing_confirmation_msg" msgid="8204761740738350792">"Bu kod <xliff:g id="DEVICE_NAME">%1$s</xliff:g> qurilmasidagi kod bilan mos kelishini tekshiring.\n\nXavfsizligingiz uchun bu kodni hech qayerga kiritmang."</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>ga o‘zaro bog‘lanmadi."</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"Mavjud qurilmalar"</string>
@@ -4728,8 +4730,8 @@
     <!-- no translation found for graphics_driver_app_preference_values:2 (5391218026495225599) -->
     <!-- no translation found for graphics_driver_app_preference_values:3 (2586045835780389650) -->
     <string name="enable_angle_as_system_driver" msgid="4648827560023949786">"Tajribaviy: ANGLE tizimini yoqish"</string>
-    <string name="enable_angle_as_system_driver_summary" msgid="2170215556348477481">"Diqqat: ANGLE tizimini OpenGL ES drayveri sifatida yoqish. Bu tajribaviy funksiya va ayrim kamera va video ilovalar bilan ishlamasligi mumkin."</string>
-    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="2619263039763150810">"Tizim OpenGL ES drayveri oʻzgarishi uchun qayta ishga tushirish zarur"</string>
+    <string name="enable_angle_as_system_driver_summary" msgid="1552818142467085308">"Diqqat: ANGLE tizimini OpenGL ES drayveri sifatida yoqish. Bu tajribaviy funksiya va ayrim kamera va video ilovalar bilan ishlamasligi mumkin. Kalitni yoqishdan oldin qurilmadagi maʼlumotlarni zaxiralashni unutmang"</string>
+    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="14147627096976157">"Tizim OpenGL ES drayveri oʻzgarishi uchun qayta ishga tushirish zarur. Qayta yoqishdan oldin qurilmadagi maʼlumotlarni zaxiralang. Qayta yoqish amalga oshmasa, qurilmani tiklash uchun zavod sozlamalariga qaytarish kerak"</string>
     <string name="platform_compat_dashboard_title" msgid="1323980546791790236">"Ilovalar mosligi sozlamalaridagi oʻzgarishlar"</string>
     <string name="platform_compat_dashboard_summary" msgid="4036546607938791337">"Ilova mosligiga oʻzgartirishlarni koʻrsatish"</string>
     <string name="platform_compat_default_enabled_title" msgid="8973137337738388024">"Standart yoniq oʻzgartirishlar"</string>

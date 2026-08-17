@@ -856,6 +856,8 @@
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"Autoriser l\'accès à vos contacts et à l\'historique des appels"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"Autoriser également l\'accès aux contacts et à l\'historique des appels"</string>
     <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"Ces informations seront utilisées pour les annonces d\'appels et plus"</string>
+    <string name="bluetooth_pairing_confirmation_title" msgid="3359642089708714808">"Vérifier les codes d\'association"</string>
+    <string name="bluetooth_pairing_confirmation_msg" msgid="8204761740738350792">"Vérifiez si ce code correspond à celui de <xliff:g id="DEVICE_NAME">%1$s</xliff:g>.\n\nPour votre sécurité, n\'entrez ce code nulle part."</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"Impossible de se connecter à <xliff:g id="DEVICE_NAME">%1$s</xliff:g>."</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"Appareils détectés"</string>
@@ -4728,8 +4730,8 @@
     <!-- no translation found for graphics_driver_app_preference_values:2 (5391218026495225599) -->
     <!-- no translation found for graphics_driver_app_preference_values:3 (2586045835780389650) -->
     <string name="enable_angle_as_system_driver" msgid="4648827560023949786">"Expérimental : Activer ANGLE"</string>
-    <string name="enable_angle_as_system_driver_summary" msgid="2170215556348477481">"Avertissement : Activer ANGLE en tant que pilote OpenGL ES par défaut. Cette fonctionnalité est en cours de test et peut ne pas être compatible avec certaines applis vidéo et d\'appareils photo."</string>
-    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="2619263039763150810">"Un redémarrage est nécessaire pour modifier le pilote OpenGL ES du système"</string>
+    <string name="enable_angle_as_system_driver_summary" msgid="1552818142467085308">"Avertissement : Activer ANGLE en tant que pilote OpenGL ES par défaut. Cette fonctionnalité est en cours de test et peut ne pas être compatible avec certaines applis vidéo et d\'appareils photo. Veuillez sauvegarder les données de votre appareil avant d\'activer le commutateur."</string>
+    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="14147627096976157">"Un redémarrage est nécessaire pour modifier le pilote OpenGL ES du système. Veuillez sauvegarder les données de votre appareil avant de procéder au redémarrage. En cas d\'échec du redémarrage, il vous faudra rétablir les paramètres par défaut pour restaurer l\'appareil."</string>
     <string name="platform_compat_dashboard_title" msgid="1323980546791790236">"Changements dans la compatibilité des applis"</string>
     <string name="platform_compat_dashboard_summary" msgid="4036546607938791337">"Basculez les changements de compatibilité des applis"</string>
     <string name="platform_compat_default_enabled_title" msgid="8973137337738388024">"Changements activés par défaut"</string>

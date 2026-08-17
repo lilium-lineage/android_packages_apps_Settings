@@ -856,6 +856,8 @@
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"Дозволити доступ до контактів та історії викликів"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"Надати доступ також до контактів і історії викликів"</string>
     <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"Інформація використовуватиметься для сповіщень про виклики тощо"</string>
+    <string name="bluetooth_pairing_confirmation_title" msgid="3359642089708714808">"Перевірте коди зв’язування"</string>
+    <string name="bluetooth_pairing_confirmation_msg" msgid="8204761740738350792">"Перевірте, чи цей код збігається з кодом на пристрої \"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>\".\n\nЗ міркувань безпеки ніде не вводьте цей код."</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"Не вдалося з’єднатися з пристроєм <xliff:g id="DEVICE_NAME">%1$s</xliff:g>."</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"Доступні пристрої"</string>
@@ -4728,8 +4730,8 @@
     <!-- no translation found for graphics_driver_app_preference_values:2 (5391218026495225599) -->
     <!-- no translation found for graphics_driver_app_preference_values:3 (2586045835780389650) -->
     <string name="enable_angle_as_system_driver" msgid="4648827560023949786">"Експериментальна функція: увімкнути ANGLE"</string>
-    <string name="enable_angle_as_system_driver_summary" msgid="2170215556348477481">"Попередження. ANGLE буде ввімкнено як драйвер OpenGL ES за умовчанням. Це експериментальна функція. Вона може бути несумісна з деякими додатками для камери й відео."</string>
-    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="2619263039763150810">"Щоб змінити системний драйвер OpenGL ES, перезапустіть пристрій"</string>
+    <string name="enable_angle_as_system_driver_summary" msgid="1552818142467085308">"Попередження. ANGLE буде ввімкнено як драйвер OpenGL ES за умовчанням. Це експериментальна функція. Вона може бути несумісна з деякими додатками для камери й відео. Перш ніж увімкнути перемикач, створіть резервну копію даних на пристрої."</string>
+    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="14147627096976157">"Щоб змінити системний драйвер OpenGL ES, перезапустіть пристрій. Перш ніж зробити це, створіть резервну копію даних на пристрої. Якщо пристрій не вдасться перезапустити, скиньте його налаштування, щоб відновити дані на пристрої."</string>
     <string name="platform_compat_dashboard_title" msgid="1323980546791790236">"Зміни сумісності додатка"</string>
     <string name="platform_compat_dashboard_summary" msgid="4036546607938791337">"Увімкнути або вимкнути зміни сумісності додатка"</string>
     <string name="platform_compat_default_enabled_title" msgid="8973137337738388024">"Зміни, увімкнені за умовчанням"</string>

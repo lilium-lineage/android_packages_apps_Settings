@@ -856,6 +856,8 @@
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"Tillåt åtkomst till kontakter och sökhistorik"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"Ge även åtkomst till kontakter och samtalshistorik"</string>
     <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"Uppgifterna används för samtalsaviseringar med mera"</string>
+    <string name="bluetooth_pairing_confirmation_title" msgid="3359642089708714808">"Kontrollera kopplingskoder"</string>
+    <string name="bluetooth_pairing_confirmation_msg" msgid="8204761740738350792">"Kontrollera att koden stämmer överens med den på <xliff:g id="DEVICE_NAME">%1$s</xliff:g>.\n\nAnge inte den här koden någonstans av säkerhetsskäl."</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"Det gick inte att ansluta till <xliff:g id="DEVICE_NAME">%1$s</xliff:g>."</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"Tillgängliga enheter"</string>
@@ -4728,8 +4730,8 @@
     <!-- no translation found for graphics_driver_app_preference_values:2 (5391218026495225599) -->
     <!-- no translation found for graphics_driver_app_preference_values:3 (2586045835780389650) -->
     <string name="enable_angle_as_system_driver" msgid="4648827560023949786">"Experimentell: Aktivera ANGLE"</string>
-    <string name="enable_angle_as_system_driver_summary" msgid="2170215556348477481">"Varning: Aktivera ANGLE som OpenGL ES-standarddrivrutin. Denna funktion är experimentell och är eventuellt inte kompatibel med vissa kamera- och videoappar."</string>
-    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="2619263039763150810">"Du måste starta om enheten för att ändra systemets OpenGL ES-drivrutin"</string>
+    <string name="enable_angle_as_system_driver_summary" msgid="1552818142467085308">"Varning: Aktivera ANGLE som OpenGL ES-standarddrivrutin. Denna funktion är experimentell och är eventuellt inte kompatibel med vissa kamera- och videoappar. Säkerhetskopiera enhetsdata innan du aktiverar ändringen"</string>
+    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="14147627096976157">"Du måste starta om enheten för att ändra systemets OpenGL ES-drivrutin. Säkerhetskopiera enhetsdata innan du startar om. Om omstarten misslyckades måste du återställa enheten till standardinställningarna för att återställa den"</string>
     <string name="platform_compat_dashboard_title" msgid="1323980546791790236">"Kompatibilitetsändringar för appar"</string>
     <string name="platform_compat_dashboard_summary" msgid="4036546607938791337">"Aktivera eller inaktivera kompabilitetsändringar för appar"</string>
     <string name="platform_compat_default_enabled_title" msgid="8973137337738388024">"Ändringar som är aktiverade som standard"</string>

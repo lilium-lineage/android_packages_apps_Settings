@@ -856,6 +856,8 @@
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"Anna pääsyoikeus yhteystietoihisi ja puheluhistoriaasi"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"Salli myös pääsy yhteystietoihin ja soittohistoriaan"</string>
     <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"Tietoja käytetään esimerkiksi puheluilmoituksiin"</string>
+    <string name="bluetooth_pairing_confirmation_title" msgid="3359642089708714808">"Yhdistämiskoodien tarkistaminen"</string>
+    <string name="bluetooth_pairing_confirmation_msg" msgid="8204761740738350792">"Tarkista, vastaako tämä koodi laitteen <xliff:g id="DEVICE_NAME">%1$s</xliff:g> koodia.\n\nTurvallisuussyistä älä lisää tätä koodia mihinkään."</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"Yhteyden muodostaminen laitteeseen <xliff:g id="DEVICE_NAME">%1$s</xliff:g> epäonnistui."</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"Saatavilla olevat laitteet"</string>
@@ -4728,8 +4730,8 @@
     <!-- no translation found for graphics_driver_app_preference_values:2 (5391218026495225599) -->
     <!-- no translation found for graphics_driver_app_preference_values:3 (2586045835780389650) -->
     <string name="enable_angle_as_system_driver" msgid="4648827560023949786">"Kokeellinen: Ota ANGLE käyttöön"</string>
-    <string name="enable_angle_as_system_driver_summary" msgid="2170215556348477481">"Varoitus: Ota ANGLE käyttöön OpenGL ES ‑oletusajurina. Tämä ominaisuus on kokeiluvaiheessa, eikä se välttämättä ole yhteensopiva kaikkien kamera- ja videosovellusten kanssa."</string>
-    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="2619263039763150810">"Järjestelmän OpenGL ES ‑ajurin muuttaminen edellyttää uudelleenkäynnistystä"</string>
+    <string name="enable_angle_as_system_driver_summary" msgid="1552818142467085308">"Varoitus: Ota ANGLE käyttöön OpenGL ES ‑oletusajurina. Ominaisuus on kokeiluvaiheessa, eikä se välttämättä ole yhteensopiva kaikkien kamera- ja videosovellusten kanssa. Varmuuskopioi laitteen data ennen kuin laitat kytkimen päälle"</string>
+    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="14147627096976157">"Järjestelmän OpenGL ES ‑ajurin muuttaminen edellyttää uudelleenkäynnistystä. Varmuuskopioi laitteen data ennen uudelleenkäynnistystä. Jos uudelleenkäynnistys epäonnistui, sinun on palautettava laitteen tehdasasetukset"</string>
     <string name="platform_compat_dashboard_title" msgid="1323980546791790236">"Sovelluksen yhteensopivuuden muutokset"</string>
     <string name="platform_compat_dashboard_summary" msgid="4036546607938791337">"Sovellusten yhteensopivuuden muutokset päälle/pois"</string>
     <string name="platform_compat_default_enabled_title" msgid="8973137337738388024">"Oletusarvoisesti käyttöön otettujen muutokset"</string>

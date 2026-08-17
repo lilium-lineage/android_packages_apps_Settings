@@ -856,6 +856,8 @@
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"Թույլատրել կոնտակտների ու զանգերի պատմության հասանելիությունը"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"Նաև հասանելի դարձնել կոնտակտները և զանգերի պատմությունը"</string>
     <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"Տեղեկությունները կօգտագործվեն զանգերի մասին ծանուցումների համար և այլ նպատակներով"</string>
+    <string name="bluetooth_pairing_confirmation_title" msgid="3359642089708714808">"Ստուգեք զուգակցման կոդերը"</string>
+    <string name="bluetooth_pairing_confirmation_msg" msgid="8204761740738350792">"Ստուգեք՝ արդյոք այս կոդը համընկնում է <xliff:g id="DEVICE_NAME">%1$s</xliff:g> սարքում նշվածի հետ։\n\nԱնվտանգության նկատառումներից ելնելով՝ այս կոդը ոչ մի տեղ մի մուտքագրեք։"</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"Հնարավոր չեղավ միանալ <xliff:g id="DEVICE_NAME">%1$s</xliff:g>-ին:"</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"Հասանելի սարքեր"</string>
@@ -4728,8 +4730,8 @@
     <!-- no translation found for graphics_driver_app_preference_values:2 (5391218026495225599) -->
     <!-- no translation found for graphics_driver_app_preference_values:3 (2586045835780389650) -->
     <string name="enable_angle_as_system_driver" msgid="4648827560023949786">"Փորձնական գործառույթ․ միացնել ANGLE-ը"</string>
-    <string name="enable_angle_as_system_driver_summary" msgid="2170215556348477481">"Նախազգուշացում․ միացրեք ANGLE-ը որպես կանխադրված OpenGL ES դրայվեր։ Այս գործառույթը փորձարկման փուլում է և կարող է համատեղելի չլինել տեսանյութերի ստեղծման և տեսախցիկի որոշ հավելվածների հետ։"</string>
-    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="2619263039763150810">"Համակարգի OpenGL ES սարքավարը փոխելու համար պահանջվում է վերաբեռնում"</string>
+    <string name="enable_angle_as_system_driver_summary" msgid="1552818142467085308">"Նախազգուշացում․ միացրեք ANGLE-ը որպես կանխադրված OpenGL ES դրայվեր։ Այս գործառույթը փորձարկման փուլում է և կարող է համատեղելի չլինել տեսանյութերի ստեղծման և տեսախցիկի որոշ հավելվածների հետ։ Նախքան փոխանջատիչը միացնելը պահուստավորեք սարքի տվյալները։"</string>
+    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="14147627096976157">"Համակարգի OpenGL ES դրայվերը փոխելու համար պահանջվում է վերաբեռնում։ Վերաբեռնումից առաջ պահուստավորեք ձեր սարքի տվյալները։ Եթե չհաջողվի վերաբեռնել, սարքը վերականգնելու համար անհրաժեշտ է վերականգնել գործարանային կարգավորումները"</string>
     <string name="platform_compat_dashboard_title" msgid="1323980546791790236">"Հավելվածների համատեղելիության փոփոխություններ"</string>
     <string name="platform_compat_dashboard_summary" msgid="4036546607938791337">"Թաքցնել/ցուցադրել հավելվածների համատեղելիության փոփոխությունները"</string>
     <string name="platform_compat_default_enabled_title" msgid="8973137337738388024">"Ըստ կանխադրման միացված փոփոխություններ"</string>

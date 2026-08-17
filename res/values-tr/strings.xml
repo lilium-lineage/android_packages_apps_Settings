@@ -856,6 +856,8 @@
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"Kişilerime ve çağrı geçmişime erişime izin ver"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"Kişilere ve çağrı geçmişine erişim izni de ver"</string>
     <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"Bilgiler, arama duyuruları ve diğer özellikler için kullanılacak"</string>
+    <string name="bluetooth_pairing_confirmation_title" msgid="3359642089708714808">"Eşleme kodlarını kontrol edin"</string>
+    <string name="bluetooth_pairing_confirmation_msg" msgid="8204761740738350792">"Bu kodun <xliff:g id="DEVICE_NAME">%1$s</xliff:g> adlı cihazdaki kodla eşleşip eşleşmediğini kontrol edin.\n\nGüvenliğiniz için bu kodu hiçbir yere girmeyin."</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"<xliff:g id="DEVICE_NAME">%1$s</xliff:g> adlı cihaza bağlanılamadı."</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"Kullanılabilir cihazlar"</string>
@@ -4728,8 +4730,8 @@
     <!-- no translation found for graphics_driver_app_preference_values:2 (5391218026495225599) -->
     <!-- no translation found for graphics_driver_app_preference_values:3 (2586045835780389650) -->
     <string name="enable_angle_as_system_driver" msgid="4648827560023949786">"Deneysel: ANGLE\'ı etkinleştirin"</string>
-    <string name="enable_angle_as_system_driver_summary" msgid="2170215556348477481">"Uyarı: ANGLE\'ı, varsayılan OpenGL ES sürücüsü olarak etkinleştirin. Bu özellik deneme aşamasında olduğu için bazı kamera ve video uygulamalarıyla uyumlu olmayabilir."</string>
-    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="2619263039763150810">"Sistem OpenGL ES sürücüsünü değiştirmek için yeniden başlatma gerekir"</string>
+    <string name="enable_angle_as_system_driver_summary" msgid="1552818142467085308">"Uyarı: ANGLE\'ı, varsayılan OpenGL ES sürücüsü olarak etkinleştirin. Bu özellik deneme aşamasında olduğu için bazı kamera ve video uygulamalarıyla uyumlu olmayabilir. Anahtarı açmadan önce lütfen cihaz verilerinizi yedekleyin"</string>
+    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="14147627096976157">"Sistem OpenGL ES sürücüsünü değiştirmek için yeniden başlatma gerekir. Lütfen yeniden başlatmadan önce cihaz verilerinizi yedekleyin. Yeniden başlatma işlemi başarısız olursa cihazı geri yüklemek için fabrika ayarlarına sıfırlamanız gerekir."</string>
     <string name="platform_compat_dashboard_title" msgid="1323980546791790236">"Uygulama Uyumluluğuyla İlgili Değişiklikler"</string>
     <string name="platform_compat_dashboard_summary" msgid="4036546607938791337">"Uygulama uyumluluk değişikliklerini aç/kapat"</string>
     <string name="platform_compat_default_enabled_title" msgid="8973137337738388024">"Varsayılan olarak etkin değişiklikler"</string>

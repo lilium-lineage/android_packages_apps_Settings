@@ -856,6 +856,8 @@
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"Να επιτρέπεται η πρόσβαση στις επαφές σας και στο ιστορικό κλήσεων"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"Επιτρέψτε επίσης την πρόσβαση στις επαφές και το ιστορικό κλήσεων"</string>
     <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"Οι πληροφορίες θα χρησιμοποιούνται για ανακοινώσεις κλήσεων κ.ά."</string>
+    <string name="bluetooth_pairing_confirmation_title" msgid="3359642089708714808">"Έλεγχος κωδικών σύζευξης"</string>
+    <string name="bluetooth_pairing_confirmation_msg" msgid="8204761740738350792">"Ελέγξτε αν αυτός ο κωδικός αντιστοιχεί με αυτόν στη συσκευή <xliff:g id="DEVICE_NAME">%1$s</xliff:g>.\n\nΓια την ασφάλειά σας, μην εισαγάγετε αυτόν τον κωδικό πουθενά."</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"Δεν ήταν δυνατή η σύνδεση με τη συσκευή <xliff:g id="DEVICE_NAME">%1$s</xliff:g>."</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"Διαθέσιμες συσκευές"</string>
@@ -4728,8 +4730,8 @@
     <!-- no translation found for graphics_driver_app_preference_values:2 (5391218026495225599) -->
     <!-- no translation found for graphics_driver_app_preference_values:3 (2586045835780389650) -->
     <string name="enable_angle_as_system_driver" msgid="4648827560023949786">"Πειραματικό: Ενεργοποιήστε το ANGLE"</string>
-    <string name="enable_angle_as_system_driver_summary" msgid="2170215556348477481">"Προειδοποίηση: Ενεργοποιήστε το ANGLE ως προεπιλεγμένο πρόγραμμα οδήγησης OpenGL ES. Αυτή η λειτουργία βρίσκεται σε πειραματικό στάδιο και ενδέχεται να μην είναι συμβατή με ορισμένες εφαρμογές κάμερας και βίντεο."</string>
-    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="2619263039763150810">"Για την αλλαγή του προγράμματος οδήγησης OpenGL ES του συστήματος απαιτείται επανεκκίνηση"</string>
+    <string name="enable_angle_as_system_driver_summary" msgid="1552818142467085308">"Προειδοποίηση: Ενεργοποιήστε το ANGLE ως το προεπιλεγμένο πρόγραμμα οδήγησης OpenGL ES. Αυτή η λειτουργία βρίσκεται σε πειραματικό στάδιο και ενδέχεται να μην είναι συμβατή με ορισμένες εφαρμογές κάμερας και βίντεο. Δημιουργήστε αντίγραφα ασφαλείας των δεδομένων της συσκευής πριν ενεργοποιήσετε τον διακόπτη"</string>
+    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="14147627096976157">"Για την αλλαγή του προγράμματος οδήγησης OpenGL ES του συστήματος απαιτείται επανεκκίνηση. Δημιουργήστε αντίγραφα ασφαλείας των δεδομένων της συσκευής πριν από την επανεκκίνηση. Σε περίπτωση που η επανεκκίνηση απέτυχε, θα πρέπει να κάνετε επαναφορά των εργοστασιακών ρυθμίσεων, για να επαναφέρετε τη συσκευή"</string>
     <string name="platform_compat_dashboard_title" msgid="1323980546791790236">"Αλλαγές συμβατότητας εφαρμογής"</string>
     <string name="platform_compat_dashboard_summary" msgid="4036546607938791337">"Εναλλαγή αλλαγών συμβατότητας εφαρμογών"</string>
     <string name="platform_compat_default_enabled_title" msgid="8973137337738388024">"Αλλαγές που είναι ενεργοποιημένες από προεπιλογή"</string>

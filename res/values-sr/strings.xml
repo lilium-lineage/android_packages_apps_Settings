@@ -856,6 +856,8 @@
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"Дозволи приступ контактима и историји позива"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"Дозволи и приступ контактима и историји позива"</string>
     <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"Информације ће се користити за обавештења о позивима и друго"</string>
+    <string name="bluetooth_pairing_confirmation_title" msgid="3359642089708714808">"Проверите кôд за упаривање"</string>
+    <string name="bluetooth_pairing_confirmation_msg" msgid="8204761740738350792">"Проверите да ли се овај кôд подудара са оним на уређају <xliff:g id="DEVICE_NAME">%1$s</xliff:g>.\n\nИз безбедносних разлога не уносите нигде овај кôд."</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"Није могуће повезати се са уређајем <xliff:g id="DEVICE_NAME">%1$s</xliff:g>."</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"Доступни уређаји"</string>
@@ -4728,8 +4730,8 @@
     <!-- no translation found for graphics_driver_app_preference_values:2 (5391218026495225599) -->
     <!-- no translation found for graphics_driver_app_preference_values:3 (2586045835780389650) -->
     <string name="enable_angle_as_system_driver" msgid="4648827560023949786">"Експериментално: Омогући ANGLE"</string>
-    <string name="enable_angle_as_system_driver_summary" msgid="2170215556348477481">"Упозорење: Омогућава ANGLE као подразумевани OpenGL ES управљачки програм. Ова функција је у експерименталној фази и можда није компатибилна са неким апликацијама за камеру и видео снимке."</string>
-    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="2619263039763150810">"Морате да рестартујете да бисте променили OpenGL ES управљачки програм система"</string>
+    <string name="enable_angle_as_system_driver_summary" msgid="1552818142467085308">"Упозорење: Омогућава ANGLE као подразумевани OpenGL ES управљачки програм. Ова функција је у експерименталној фази и можда није компатибилна са неким апликацијама за камеру и видео снимке. Направите резервну копију података са уређаја пре него што укључите прекидач"</string>
+    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="14147627096976157">"Морате да рестартујете да бисте променили OpenGL ES управљачки програм система. Направите резервну копију података са уређаја пре рестартовања. Ако рестартовање није успело, треба да ресетујете уређај на фабричка подешавања да бисте га вратили у претходно стање"</string>
     <string name="platform_compat_dashboard_title" msgid="1323980546791790236">"Промене компатибилности апликације"</string>
     <string name="platform_compat_dashboard_summary" msgid="4036546607938791337">"Укључите/искључите промене компатибилности апликације"</string>
     <string name="platform_compat_default_enabled_title" msgid="8973137337738388024">"Подразумеване омогућене промене"</string>

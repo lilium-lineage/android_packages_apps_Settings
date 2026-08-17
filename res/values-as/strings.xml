@@ -856,6 +856,8 @@
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"আপোনাৰ সম্পৰ্কসূচী আৰু কলৰ ইতিহাস এক্সেছ কৰিবলৈ অনুমতি দিয়ক"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"লগতে আপোনাৰ সম্পৰ্কসমূহ আৰু কলৰ ইতিহাস এক্সেছ কৰিবলৈ অনুমতি দিয়ক"</string>
     <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"এই তথ্য কল ঘোষণা আৰু অধিক কাৰ্যৰ বাবে ব্যৱহাৰ কৰা হ’ব"</string>
+    <string name="bluetooth_pairing_confirmation_title" msgid="3359642089708714808">"পেয়াৰ কৰাৰ ক’ড পৰীক্ষা কৰক"</string>
+    <string name="bluetooth_pairing_confirmation_msg" msgid="8204761740738350792">"এই ক’ডটো <xliff:g id="DEVICE_NAME">%1$s</xliff:g>ত থকাটোৰ সৈতে মিলে নেকি পৰীক্ষা কৰক।\n\nআপোনাৰ সুৰক্ষাৰ বাবে এই ক’ডটো ক’তো নিদিব।"</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>ৰ সৈতে সংযোগ কৰিব পৰা নগ\'ল।"</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"উপলব্ধ ডিভাইচসমূ্হ"</string>
@@ -4728,8 +4730,8 @@
     <!-- no translation found for graphics_driver_app_preference_values:2 (5391218026495225599) -->
     <!-- no translation found for graphics_driver_app_preference_values:3 (2586045835780389650) -->
     <string name="enable_angle_as_system_driver" msgid="4648827560023949786">"পৰীক্ষামূলক: ANGLE সক্ষম কৰক"</string>
-    <string name="enable_angle_as_system_driver_summary" msgid="2170215556348477481">"সকীয়নি: ডিফ’ল্ট OpenGL ES ড্ৰাইভাৰ হিচাপে ANGLE সক্ষম কৰক। এই সুবিধাটো পৰীক্ষা কৰি থকা হৈছে আৰু কিছুমান কেমেৰা আৰু ভিডিঅ’ এপৰ সৈতে এইটো সমিল নহ’বও পাৰে।"</string>
-    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="2619263039763150810">"ছিষ্টেমৰ OpenGL ES ড্ৰাইভাৰ সলনি কৰিবলৈ ৰিবুট কৰাৰ আৱশ্যক"</string>
+    <string name="enable_angle_as_system_driver_summary" msgid="1552818142467085308">"সকীয়নি: ডিফ’ল্ট OpenGL ES ড্ৰাইভাৰ হিচাপে ANGLE সক্ষম কৰক। এই সুবিধাটো পৰীক্ষা কৰি থকা হৈছে আৰু কিছুমান কেমেৰা আৰু ভিডিঅ’ এপৰ সৈতে এইটো সমিল নহ’বও পাৰে। অনুগ্ৰহ কৰি ছুইচটো অন কৰাৰ আগতে আপোনাৰ ডিভাইচৰ ডেটাৰ বেকআপ লওক"</string>
+    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="14147627096976157">"ছিষ্টেমৰ OpenGL ES ড্ৰাইভাৰ সলনি কৰিবলৈ ৰিবুট কৰাৰ আৱশ্যক। ৰিবুট কৰাৰ আগতে অনুগ্ৰহ কৰি আপোনাৰ ডিভাইচৰ ডেটাৰ বেক আপ লওক। যদি ৰিবুট কৰাটো বিফল হয়, ডিভাইচটো পুনৰুদ্ধাৰ কৰিবলৈ আপোনাক ফেক্টৰী ৰিছেটৰ প্ৰয়োজন"</string>
     <string name="platform_compat_dashboard_title" msgid="1323980546791790236">"এপৰ সুসমতা সম্পৰ্কীয় সালসলনিসমূহ"</string>
     <string name="platform_compat_dashboard_summary" msgid="4036546607938791337">"এপৰ সুসংগতাৰ সালসলনিসমূহ ট’গল কৰক"</string>
     <string name="platform_compat_default_enabled_title" msgid="8973137337738388024">"সক্ষম কৰা ডিফ’ল্ট সালসলনিসমূহ"</string>

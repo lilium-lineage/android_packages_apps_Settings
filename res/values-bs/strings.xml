@@ -856,6 +856,8 @@
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"Dozvoli pristup kontaktima i historiji poziva"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"Također dozvoli pristup kontaktima i historiji poziva"</string>
     <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"Podaci će se koristiti za obavještenja o pozivu i drugo"</string>
+    <string name="bluetooth_pairing_confirmation_title" msgid="3359642089708714808">"Provjerite kôd za uparivanje"</string>
+    <string name="bluetooth_pairing_confirmation_msg" msgid="8204761740738350792">"Provjerite podudara li se ovaj kôd s kodom na uređaju <xliff:g id="DEVICE_NAME">%1$s</xliff:g>.\n\nRadi sigurnosti nemojte unositi ovaj kôd nigdje."</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"Nije uspjelo povezivanje sa uređajem <xliff:g id="DEVICE_NAME">%1$s</xliff:g>."</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"Dostupni uređaji"</string>
@@ -4728,8 +4730,8 @@
     <!-- no translation found for graphics_driver_app_preference_values:2 (5391218026495225599) -->
     <!-- no translation found for graphics_driver_app_preference_values:3 (2586045835780389650) -->
     <string name="enable_angle_as_system_driver" msgid="4648827560023949786">"Eksperimentalno: omogućite ANGLE"</string>
-    <string name="enable_angle_as_system_driver_summary" msgid="2170215556348477481">"Upozorenje: omogućava ANGLE kao zadani drajver OpenGL ES-a. Ova funkcija je eksperimentalna i možda neće biti kompatibilna s određenim aplikacijama za kameru i videozapise."</string>
-    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="2619263039763150810">"Ponovno pokretanje je potrebno za promjenu sistemskog drajvera OpenGL ES"</string>
+    <string name="enable_angle_as_system_driver_summary" msgid="1552818142467085308">"Upozorenje: omogućite ANGLE kao zadani drajver OpenGL ES-a. Ova funkcija je eksperimentalna i možda neće biti kompatibilna s određenim aplikacijama za kameru i videozapise. Napravite sigurnosnu kopiju podataka uređaja prije nego što uključite prekidač"</string>
+    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="14147627096976157">"Ponovno pokretanje je potrebno za promjenu sistemskog drajvera OpenGL ES-a. Napravite sigurnosnu kopiju podataka uređaja prije ponovnog pokretanja. U slučaju da ponovno pokretanje ne uspije, trebate vratiti uređaj na fabričke postavke"</string>
     <string name="platform_compat_dashboard_title" msgid="1323980546791790236">"Izmjene kompatibilnosti aplikacije"</string>
     <string name="platform_compat_dashboard_summary" msgid="4036546607938791337">"Uključivanje/isključivanje izmjena kompatibilnosti aplikacije"</string>
     <string name="platform_compat_default_enabled_title" msgid="8973137337738388024">"Zadano omogućene izmjene"</string>

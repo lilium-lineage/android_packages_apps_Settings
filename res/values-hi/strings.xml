@@ -856,6 +856,8 @@
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"अपने संपर्क और कॉल इतिहास देखने की मंज़ूरी दें"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"संपर्क और कॉल इतिहास को ऐक्सेस करने की भी अनुमति दें"</string>
     <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"इस जानकारी का इस्तेमाल, कॉल की सूचना देने वगैरह के लिए किया जाएगा"</string>
+    <string name="bluetooth_pairing_confirmation_title" msgid="3359642089708714808">"जोड़ने के कोड का मिलान करें"</string>
+    <string name="bluetooth_pairing_confirmation_msg" msgid="8204761740738350792">"देखें कि यह कोड, <xliff:g id="DEVICE_NAME">%1$s</xliff:g> के कोड से मेल खाता है या नहीं.\n\nसुरक्षा को ध्यान में रखते हुए, इस कोड को कहीं और इस्तेमाल न करें."</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"<xliff:g id="DEVICE_NAME">%1$s</xliff:g> से कनेक्‍ट नहीं किया जा सका."</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"उपलब्ध ब्लूटूथ डिवाइस"</string>
@@ -4728,8 +4730,8 @@
     <!-- no translation found for graphics_driver_app_preference_values:2 (5391218026495225599) -->
     <!-- no translation found for graphics_driver_app_preference_values:3 (2586045835780389650) -->
     <string name="enable_angle_as_system_driver" msgid="4648827560023949786">"एक्सपेरिमेंटल: ANGLE चालू करें"</string>
-    <string name="enable_angle_as_system_driver_summary" msgid="2170215556348477481">"चेतावनी: ANGLE को OpenGL ES के डिफ़ॉल्ट ड्राइवर के तौर पर चालू करें. यह सुविधा एक्सपेरिमेंट के तौर पर उपलब्ध है. ऐसा हो सकता है कि यह कुछ कैमरे और वीडियो ऐप्लिकेशन के साथ काम न करे."</string>
-    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="2619263039763150810">"सिस्टम के OpenGL ES ड्राइवर को बदलने के लिए, डिवाइस को फिर से चालू करना होगा"</string>
+    <string name="enable_angle_as_system_driver_summary" msgid="1552818142467085308">"चेतावनी: ANGLE को OpenGL ES के डिफ़ॉल्ट ड्राइवर के तौर पर चालू करें. यह सुविधा एक्सपेरिमेंट के तौर पर उपलब्ध है. इसलिए, ऐसा हो सकता है कि यह कुछ कैमरा और वीडियो ऐप्लिकेशन के साथ काम न करे. चालू करने से पहले, कृपया अपने डिवाइस के डेटा का बैकअप लें"</string>
+    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="14147627096976157">"सिस्टम के OpenGL ES ड्राइवर को बदलने के लिए, आपको डिवाइस को फिर से चालू करना होगा. डिवाइस को फिर से चालू करने से पहले, कृपया अपने डिवाइस के डेटा का बैक अप लें. अगर आपका डिवाइस फिर चालू नहीं हो पाता है, तो डिवाइस को पहले जैसा करने के लिए आपको उसे फ़ैक्ट्री रीसेट करना होगा"</string>
     <string name="platform_compat_dashboard_title" msgid="1323980546791790236">"साथ काम करने के लिए ऐप्लिकेशन में किए गए बदलाव"</string>
     <string name="platform_compat_dashboard_summary" msgid="4036546607938791337">"साथ काम करने के लिए ऐप्लिकेशन में किए गए बदलावों को लागू करने के लिए टॉगल करें"</string>
     <string name="platform_compat_default_enabled_title" msgid="8973137337738388024">"डिफ़ॉल्ट रूप से चालू किए गए बदलाव"</string>

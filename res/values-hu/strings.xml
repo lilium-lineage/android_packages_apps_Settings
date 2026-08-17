@@ -856,6 +856,8 @@
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"Hozzáférést biztosít névjegyeihez és híváslistájához"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"Hozzáférés engedélyezése a névjegyekhez és a híváslistához is"</string>
     <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"Az információkat a hívások bejelentéséhez és egyebekhez használjuk majd fel"</string>
+    <string name="bluetooth_pairing_confirmation_title" msgid="3359642089708714808">"Párosítókódok ellenőrzése"</string>
+    <string name="bluetooth_pairing_confirmation_msg" msgid="8204761740738350792">"Ellenőrizze, hogy ez a kód egyezik-e a(z) <xliff:g id="DEVICE_NAME">%1$s</xliff:g> eszközön lévővel.\n\nA biztonság érdekében ne adja meg ezt a kódot sehol sem."</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"Nem sikerült csatlakozni a következőhöz: <xliff:g id="DEVICE_NAME">%1$s</xliff:g>."</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"Rendelkezésre álló eszközök"</string>
@@ -4728,8 +4730,8 @@
     <!-- no translation found for graphics_driver_app_preference_values:2 (5391218026495225599) -->
     <!-- no translation found for graphics_driver_app_preference_values:3 (2586045835780389650) -->
     <string name="enable_angle_as_system_driver" msgid="4648827560023949786">"Kísérleti funkció: ANGLE engedélyezése"</string>
-    <string name="enable_angle_as_system_driver_summary" msgid="2170215556348477481">"Az ANGLE engedélyezése alapértelmezett OpenGL ES-illesztőprogramként. A funkció kísérleti fázisban van, ezért előfordulhat, hogy nem kompatibilis egyes kamerákkal és videóalkalmazásokkal."</string>
-    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="2619263039763150810">"Újraindítás szükséges a rendszer OpenGL ES illesztőprogramjának módosításához"</string>
+    <string name="enable_angle_as_system_driver_summary" msgid="1552818142467085308">"Figyelmeztetés: Az ANGLE engedélyezése alapértelmezett OpenGL ES-illesztőprogramként. A funkció kísérleti fázisban van, ezért előfordulhat, hogy nem kompatibilis egyes kamera- és videóalkalmazásokkal. A kapcsoló bekapcsolása előtt készítsen biztonsági mentést az eszközadatokról."</string>
+    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="14147627096976157">"Újraindítás szükséges a rendszer OpenGL ES illesztőprogramjának módosításához. Az újraindítás előtt készítsen biztonsági mentést az eszközadatokról. Ha az újraindítás nem sikerül, az eszköz visszaállításához vissza kell állítani a gyári beállításokat."</string>
     <string name="platform_compat_dashboard_title" msgid="1323980546791790236">"Az alkalmazás kompatibilitási változtatásai"</string>
     <string name="platform_compat_dashboard_summary" msgid="4036546607938791337">"Az alkalmazás kompatibilitási változtatásainak be- és kikapcsolása"</string>
     <string name="platform_compat_default_enabled_title" msgid="8973137337738388024">"Alapértelmezett engedélyezett változtatások"</string>

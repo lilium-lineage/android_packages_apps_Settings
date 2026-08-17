@@ -856,6 +856,8 @@
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"Zugriff auf meine Kontakte und meine Anrufliste zulassen"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"Auch den Zugriff auf Kontakte und Anruflisten erlauben"</string>
     <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"Die Daten werden für An­ruf­be­nach­rich­ti­gun­gen und anderes verwendet"</string>
+    <string name="bluetooth_pairing_confirmation_title" msgid="3359642089708714808">"Kopplungscodes prüfen"</string>
+    <string name="bluetooth_pairing_confirmation_msg" msgid="8204761740738350792">"Prüfe, ob dieser Code mit dem auf dem Gerät „<xliff:g id="DEVICE_NAME">%1$s</xliff:g>“ übereinstimmt.\n\nGib diesen Code aus Sicherheitsgründen nirgendwo ein."</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"Keine Verbindung zu <xliff:g id="DEVICE_NAME">%1$s</xliff:g> möglich"</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"Verfügbare Geräte"</string>
@@ -4728,8 +4730,8 @@
     <!-- no translation found for graphics_driver_app_preference_values:2 (5391218026495225599) -->
     <!-- no translation found for graphics_driver_app_preference_values:3 (2586045835780389650) -->
     <string name="enable_angle_as_system_driver" msgid="4648827560023949786">"Experimentelle Funktion: ANGLE aktivieren"</string>
-    <string name="enable_angle_as_system_driver_summary" msgid="2170215556348477481">"Achtung: Aktiviere ANGLE als standardmäßigen OpenGL ES-Treiber. Dies ist eine experimentelle Funktion, die möglicherweise mit einigen Kamera- und Video-Apps nicht kompatibel ist."</string>
-    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="2619263039763150810">"Ein Neustart ist erforderlich, um den OpenGL ES-Systemtreiber zu ändern"</string>
+    <string name="enable_angle_as_system_driver_summary" msgid="1552818142467085308">"Achtung: Aktiviere ANGLE als standardmäßigen OpenGL ES-Treiber. Dies ist eine experimentelle Funktion, die möglicherweise mit einigen Kamera- und Video-Apps nicht kompatibel ist. Sichere deine Gerätedaten, bevor du den Schalter aktivierst."</string>
+    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="14147627096976157">"Ein Neustart ist erforderlich, um den OpenGL ES-Systemtreiber zu ändern. Sichere deine Gerätedaten, bevor du das Gerät neu startest. Falls der Neustart fehlschlägt, musst du das Gerät zum Wiederherstellen auf die Werkseinstellungen zurücksetzen."</string>
     <string name="platform_compat_dashboard_title" msgid="1323980546791790236">"Änderungen der Kompatibilität von Apps"</string>
     <string name="platform_compat_dashboard_summary" msgid="4036546607938791337">"Änderungen bei der Kompatibilität von Apps festlegen"</string>
     <string name="platform_compat_default_enabled_title" msgid="8973137337738388024">"Standardmäßig aktivierte Änderungen"</string>

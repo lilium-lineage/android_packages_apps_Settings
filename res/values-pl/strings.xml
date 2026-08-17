@@ -856,6 +856,8 @@
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"Zezwól na dostęp do kontaktów i historii połączeń"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"Zezwalaj również na dostęp do kontaktów i historii połączeń"</string>
     <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"Informacje zostaną wykorzystane m.in. do powiadomień o połączeniach"</string>
+    <string name="bluetooth_pairing_confirmation_title" msgid="3359642089708714808">"Sprawdź kody parowania"</string>
+    <string name="bluetooth_pairing_confirmation_msg" msgid="8204761740738350792">"Sprawdź, czy ten kod jest taki sam, jak na urządzeniu <xliff:g id="DEVICE_NAME">%1$s</xliff:g>.\n\nZe względów bezpieczeństwa nie wpisuj nigdzie tego kodu."</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"Nie udało się nawiązać połączenia z <xliff:g id="DEVICE_NAME">%1$s</xliff:g>."</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"Dostępne urządzenia"</string>
@@ -4728,8 +4730,8 @@
     <!-- no translation found for graphics_driver_app_preference_values:2 (5391218026495225599) -->
     <!-- no translation found for graphics_driver_app_preference_values:3 (2586045835780389650) -->
     <string name="enable_angle_as_system_driver" msgid="4648827560023949786">"Funkcja eksperymentalna: włącz ANGLE"</string>
-    <string name="enable_angle_as_system_driver_summary" msgid="2170215556348477481">"Ostrzeżenie: włącz ANGLE jako domyślny sterownik OpenGL ES. Funkcja jest w fazie eksperymentalnej i może nie być zgodna z niektórymi aplikacjami aparatu i aplikacjami do filmów."</string>
-    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="2619263039763150810">"Zmiana systemowego sterownika OpenGL ES wymaga ponownego uruchomienia"</string>
+    <string name="enable_angle_as_system_driver_summary" msgid="1552818142467085308">"Ostrzeżenie: włącz ANGLE jako domyślny sterownik OpenGL ES. Funkcja jest w fazie eksperymentalnej i może być niezgodna z niektórymi aplikacjami aparatu i do filmów. Przed włączeniem przełącznika utwórz kopię zapasową danych na urządzeniu"</string>
+    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="14147627096976157">"Zmiana systemowego sterownika OpenGL ES wymaga ponownego uruchomienia. Przed ponownym uruchomieniem utwórz kopię zapasową danych na urządzeniu. Jeśli nie uda się ponownie uruchomić urządzenia, musisz je przywrócić do ustawień fabrycznych"</string>
     <string name="platform_compat_dashboard_title" msgid="1323980546791790236">"Zmiany zgodności aplikacji"</string>
     <string name="platform_compat_dashboard_summary" msgid="4036546607938791337">"Przełączanie zmian zgodności aplikacji"</string>
     <string name="platform_compat_default_enabled_title" msgid="8973137337738388024">"Zmiany domyślnie włączonych"</string>

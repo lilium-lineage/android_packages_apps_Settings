@@ -856,6 +856,8 @@
     <string name="bluetooth_pairing_shares_phonebook" msgid="4329325125260724843">"Veita aðgang að tengiliðum þínum og símtalaferli"</string>
     <string name="bluetooth_pairing_phonebook_toggle_text" msgid="2474015367387690034">"Veita einnig aðgang að tengiliðum og símtalaferli"</string>
     <string name="bluetooth_pairing_phonebook_toggle_details" msgid="1367197978487212581">"Upplýsingar verða notaðar fyrir símtalatilkynningar og fleira"</string>
+    <string name="bluetooth_pairing_confirmation_title" msgid="3359642089708714808">"Kanna pörunarkóða"</string>
+    <string name="bluetooth_pairing_confirmation_msg" msgid="8204761740738350792">"Kannaðu hvort þessi kóði passar við kóðann í <xliff:g id="DEVICE_NAME">%1$s</xliff:g>.\n\nÞér til öryggis skaltu ekki slá þennan kóða inn neins staðar."</string>
     <string name="bluetooth_error_title" msgid="2284738188253690278"></string>
     <string name="bluetooth_connecting_error_message" msgid="3941893154784152112">"Ekki tókst að tengjast <xliff:g id="DEVICE_NAME">%1$s</xliff:g>."</string>
     <string name="bluetooth_preference_found_media_devices" msgid="830061195998352840">"Tæki í boði"</string>
@@ -4728,8 +4730,8 @@
     <!-- no translation found for graphics_driver_app_preference_values:2 (5391218026495225599) -->
     <!-- no translation found for graphics_driver_app_preference_values:3 (2586045835780389650) -->
     <string name="enable_angle_as_system_driver" msgid="4648827560023949786">"Tilraun: Kveikja á ANGLE"</string>
-    <string name="enable_angle_as_system_driver_summary" msgid="2170215556348477481">"Viðvörun: Virkja ANGLE sem sjálfgefinn OpenGL ES-rekil. Þessi eiginleiki er á tilraunastigi og er hugsanlega ekki samhæfur sumum myndavélar- og vídeóforritum."</string>
-    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="2619263039763150810">"Endurræsingar er krafist til að skipta um OpenGL ES-rekil kerfis"</string>
+    <string name="enable_angle_as_system_driver_summary" msgid="1552818142467085308">"Viðvörun: Virkja ANGLE sem sjálfgefinn OpenGL ES-rekil Þessi eiginleiki er á tilraunastigi og er hugsanlega ekki samhæfur öllum myndavélar- og vídeóforritum. Taktu öryggisafrit af gögnum tækisins áður en þú kveikir á rofanum"</string>
+    <string name="reboot_dialog_enable_angle_as_system_driver" msgid="14147627096976157">"Endurræsingar er krafist til að skipta um OpenGL ES-rekil kerfis. Taktu öryggisafrit af gögnum tækisins áður en þú endurræsir það. Ef ekki tekst að endurræsa þarftu að núllstilla tækið til að endurheimta það"</string>
     <string name="platform_compat_dashboard_title" msgid="1323980546791790236">"Breytingar á samhæfi forrits"</string>
     <string name="platform_compat_dashboard_summary" msgid="4036546607938791337">"Víxla samhæfisbreytingum forrits"</string>
     <string name="platform_compat_default_enabled_title" msgid="8973137337738388024">"Sjálfgefnar virkar breytingar"</string>
